@@ -6,7 +6,7 @@ import { jsx, jsxs } from "react/jsx-runtime";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { Menu, ShoppingBag, X } from "lucide-react";
 //#region src/styles.css?url
-var styles_default = "/assets/styles-B2bXzgGG.css";
+var styles_default = "/assets/styles-CMR4esSh.css";
 //#endregion
 //#region src/lib/lovable-error-reporting.ts
 function reportLovableError(error, context = {}) {

@@ -1,4 +1,4 @@
-//#region node_modules/@tanstack/start-server-core/dist/esm/empty-plugin-adapters.js
+//#region \0%23tanstack-start-plugin-adapters
 var pluginSerializationAdapters = [];
 var hasPluginAdapters = false;
 //#endregion
